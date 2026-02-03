@@ -30,7 +30,7 @@ Roundtable Participants:
 
    Example 1: Extracting Structured Data from Biographical Text Using AI
 
-[Google Colab link]([https://colab.research.google.com/drive/1pTKWooHYhP-WlppURB_q8m4rsETOF8eV?usp=sharing]): 
+[Google Colab link]((url)[https://colab.research.google.com/drive/1pTKWooHYhP-WlppURB_q8m4rsETOF8eV?usp=sharing]): 
 
 Datasets: People_and_companies_dataset_demo.xlsx
 
