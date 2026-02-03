@@ -1,3 +1,5 @@
+*Datafication of Historical Sources with AI: a Practical Workshop*
+
 The workshop is designed to introduce postgraduate students with little or no coding experience to the potential of AI for research in the humanities and social sciences. We will use the Large Language Models (LLMs), such as OpenAI’s ChatGPT and Google’s Gemini, to prepare sources for analysis. Our practical examples will use historical datasets provided by the Science Museum, but the approaches are applicable across disciplines.
 
 The workshop will begin with an introductory talk on the advantages, limitations, and relevance of LLMs for research, delivered by Dr. Federico Nanni (The Alan Turing Institute). This will be followed by a roundtable featuring several short presentations on the practical use of AI in historical research, offering participants diverse perspectives and examples. Round table participants:
