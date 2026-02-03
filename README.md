@@ -28,10 +28,14 @@ Roundtable Participants:
 
 1. **Session 1:** Extracting data from textual sources using LLMs
 
-   Learn how to use AI to extract structured data—such as dates, biographical details, concepts, and more—from textual sources.
+   Example 1
 
-   Example 1:
-   Example 2: 
+Google Colab link: 
+Datasets: 
+
+   Example 2:
+
+   
 
 3. **Session 2:** Working on participants' own data or example data
 
