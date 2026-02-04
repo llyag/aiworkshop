@@ -43,3 +43,5 @@ Datasets: People_and_companies_dataset_demo.xlsx
    Choose between:
    - applying these methods to your own sources under the guidance of the workshop organisers and moderators, **or**
    - adapting scripts to the provided datasets.
+
+Some of the materials, code and slides for the workshop were prepared with the help of AI assistants: Gemini, Claudt, and ChatGPT. 
