@@ -28,15 +28,9 @@ Roundtable Participants:
 
 **13:45 - 15:15 - Session 1:** Extracting data from textual sources using LLMs
 
-  **Example 1:** Extracting Structured Data from Biographical Text Using AI
+  **Example 1:** Extracting Structured Data from Biographical Text Using AI - [Google Colab link](https://colab.research.google.com/drive/1pTKWooHYhP-WlppURB_q8m4rsETOF8eV?usp=sharing)
 
-[Google Colab link](https://colab.research.google.com/drive/1pTKWooHYhP-WlppURB_q8m4rsETOF8eV?usp=sharing)
-
-Datasets: People_and_companies_dataset_demo.xlsx
-
-   **Example 2:** Extracting Information from Texts
-   
-[Google Colab link](https://colab.research.google.com/drive/1N069GP6t1k33zI2JH7dKrBMkW__hhMui?usp=sharing)
+  **Example 2:** Extracting Information from Texts - [Google Colab link](https://colab.research.google.com/drive/1N069GP6t1k33zI2JH7dKrBMkW__hhMui?usp=sharing)
 
 **15:30 - 17:00 - Session 2:** Working on participants' own data or example data
 
