@@ -26,7 +26,7 @@ Roundtable Participants:
 
 ### Afternoon Practical Sessions
 
-1. **Session 1:** Extracting data from textual sources using LLMs
+**13:45 - 15:15 - Session 1:** Extracting data from textual sources using LLMs
 
   **Example 1:** Extracting Structured Data from Biographical Text Using AI
 
@@ -38,10 +38,8 @@ Datasets: People_and_companies_dataset_demo.xlsx
    
 [Google Colab link](https://colab.research.google.com/drive/1N069GP6t1k33zI2JH7dKrBMkW__hhMui?usp=sharing)
 
-3. **Session 2:** Working on participants' own data or example data
+**15:30 - 17:00 - Session 2:** Working on participants' own data or example data
 
    Choose between:
    - applying these methods to your own sources under the guidance of the workshop organisers and moderators, **or**
    - adapting scripts to the provided datasets.
-     
-
