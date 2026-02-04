@@ -40,8 +40,7 @@ Datasets: People_and_companies_dataset_demo.xlsx
 
 **15:30 - 17:00 - Session 2:** Working on participants' own data or example data
 
-**Example 1:** 
-Working with images [Google Colab link](https://colab.research.google.com/drive/1vi99ZppzwiQY-S-b7cGD_s7mkLqyijDq?usp=sharing)
-
+Working with images - [Google Colab link](https://colab.research.google.com/drive/1vi99ZppzwiQY-S-b7cGD_s7mkLqyijDq?usp=sharing)
+Working with tables - [Google Colab link](https://colab.research.google.com/drive/1Ls5m6aaqNqFC-w5uPmTab239jeOWcsbp?usp=sharing)
 
 **Some of the materials, code and slides for the workshop were prepared with the help of AI assistants: Gemini, Claudt, and ChatGPT.**
