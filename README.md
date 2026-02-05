@@ -2,7 +2,7 @@
 
 The workshop is designed to introduce postgraduate students with little or no coding experience to the potential of AI for research in the humanities and social sciences. We will use Large Language Models (LLMs), such as OpenAI’s ChatGPT and Google’s Gemini, to prepare sources for analysis. Our practical examples will use historical datasets provided by the Science Museum, but the approaches are applicable across disciplines.
 
-### 10.30 - 11.30 - ‘A Brief History of Language Modelling’, by Federico Nanni (Alan Turing Institute)
+### 10.30 - 11.30 - ‘A Brief History of Language Modelling’, by Federico Nanni (Alan Turing Institute). [Slides](https://docs.google.com/presentation/d/1fpr-xcbnkpbOxaB8u6jlo0OsQVcavu2yHby-VNMMdJU/edit?usp=sharing)
 
 The workshop will begin with an introductory talk on the advantages, limitations, and relevance of LLMs for research.
 
