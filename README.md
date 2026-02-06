@@ -16,10 +16,10 @@ Roundtable Participants:
   *“LLM Experiments with the Science Museum Collections”* - [Slides](https://github.com/llyag/aiworkshop/blob/8fabb3749e5a1fad08b0bea4b138b6b3b8b84212/DB%20-%20Slides%20-%20Nottingham%20LLM%20Workshop.pptx?raw=true)
 
 - **Jacob Forward**, University of Cambridge 
-  *“LLMs for Emotion Classification in US Presidential Speeches”* - [Slides](https://github.com/llyag/aiworkshop/blob/8fabb3749e5a1fad08b0bea4b138b6b3b8b84212/Jacob%20Forward%20-%20Generative%20AI%20as%20a%20Translation%20Technology.pptx)
+  *“LLMs for Emotion Classification in US Presidential Speeches”* - [Slides](https://github.com/llyag/aiworkshop/blob/8fabb3749e5a1fad08b0bea4b138b6b3b8b84212/Jacob%20Forward%20-%20Generative%20AI%20as%20a%20Translation%20Technology.pptx?raw=true)
 
 - **Liudmila Lyagushkina**, University of Nottingham 
-  *“LLM as a Research Assistant: Experimenting with Historical Classifications”*  - [Slides](https://github.com/llyag/aiworkshop/blob/8fabb3749e5a1fad08b0bea4b138b6b3b8b84212/Lyagushkina_presentation.pdf)
+  *“LLM as a Research Assistant: Experimenting with Historical Classifications”*  - [Slides](https://github.com/llyag/aiworkshop/blob/8fabb3749e5a1fad08b0bea4b138b6b3b8b84212/Lyagushkina_presentation.pdf?raw=true)
 
 - **Joseph Nockels**, University of Sheffield
   *“Making the Past Readable – Advancing AI Transcription Approaches for Library Collections At-Scale”* -  [Slides](https://docs.google.com/presentation/d/1a_GOpVh_Yg856JCiFeUXQPGnlMQY-TkEJa4FPMRzEDs/edit?usp=sharing)
