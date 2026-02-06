@@ -21,10 +21,10 @@ Roundtable Participants:
 - **Liudmila Lyagushkina**, University of Nottingham  
   *“LLM as a Research Assistant: Experimenting with Historical Classifications”*
 
-- **Joseph Nockels**, University of Sheffield  
+- **Joseph Nockels**, University of Sheffield  [Slides](https://docs.google.com/presentation/d/1a_GOpVh_Yg856JCiFeUXQPGnlMQY-TkEJa4FPMRzEDs/edit?usp=sharing)
   *“Making the Past Readable – Advancing AI Transcription Approaches for Library Collections At-Scale”*
 
-### Afternoon Practical Sessions - [Introductory slides]
+### Afternoon Practical Sessions - [Introductory slides](https://docs.google.com/presentation/d/1W25BKwKlVn_iAu3MqiFoSkEq94YNilIsXipwbAO41fk/edit?usp=sharing)
 
 **13:45 - 15:15 - Session 1:** Extracting data from textual sources using LLMs
 
