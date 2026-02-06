@@ -12,13 +12,13 @@ The workshop will begin with an introductory talk on the advantages, limitations
 
 Roundtable Participants:
 
-- **Daniel Belteki**, Science Museum  
+- **Daniel Belteki**, Science Museum - [Slides](https://github.com/llyag/aiworkshop/blob/8fabb3749e5a1fad08b0bea4b138b6b3b8b84212/DB%20-%20Slides%20-%20Nottingham%20LLM%20Workshop.pptx)
   *“LLM Experiments with the Science Museum Collections”*
 
-- **Jacob Forward**, University of Cambridge  
+- **Jacob Forward**, University of Cambridge - [Slides](https://github.com/llyag/aiworkshop/blob/8fabb3749e5a1fad08b0bea4b138b6b3b8b84212/Jacob%20Forward%20-%20Generative%20AI%20as%20a%20Translation%20Technology.pptx)
   *“LLMs for Emotion Classification in US Presidential Speeches”*
 
-- **Liudmila Lyagushkina**, University of Nottingham  
+- **Liudmila Lyagushkina**, University of Nottingham  - [Slides](https://github.com/llyag/aiworkshop/blob/8fabb3749e5a1fad08b0bea4b138b6b3b8b84212/Lyagushkina_presentation.pdf)
   *“LLM as a Research Assistant: Experimenting with Historical Classifications”*
 
 - **Joseph Nockels**, University of Sheffield  [Slides](https://docs.google.com/presentation/d/1a_GOpVh_Yg856JCiFeUXQPGnlMQY-TkEJa4FPMRzEDs/edit?usp=sharing)
