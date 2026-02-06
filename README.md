@@ -24,7 +24,7 @@ Roundtable Participants:
 - **Joseph Nockels**, University of Sheffield  
   *“Making the Past Readable – Advancing AI Transcription Approaches for Library Collections At-Scale”*
 
-### Afternoon Practical Sessions
+### Afternoon Practical Sessions - [Introductory slides]
 
 **13:45 - 15:15 - Session 1:** Extracting data from textual sources using LLMs
 
